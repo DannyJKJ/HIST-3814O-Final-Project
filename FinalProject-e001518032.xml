@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>War diaries - 14th Canadian General Hospital = Journal de guerre - 14e Hôpital général canadien.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Library and Archives Canada at
+                    http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&amp;lang=eng&amp;rec_nbr=2005110&amp;rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Confidential War Diary of No. 10 Canadian Stationary Hospital,
+                            from May 10th/1916 to February 28th/1919,
+                            Volume No. 1.</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>The Government of Canada</publisher>
+                        <distributor>Open access through the Library and Archives Canada website,
+                            http://www.bac-lac.gc.ca/eng/Pages/home.aspx</distributor>
+                        <date when="Unknown">Unknown</date>
+                        <pubPlace>
+                            <settlement>Ottawa, ON</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by an employee of the Library and Archives Canada</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>4</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Instructions regarding War Diaries and Intelligence Summaries are contained in F.S. Regs., Part II. and the Staff Manual respectively. Title pages will be prepared in manuscript. | WAR DIARY or (Erase heading not required.) | Army Form C. 2118.</p>                
+                <p>Place | Date | Hour | Summary of Events and Information | Remarks and references to Appendices</p>
+                <p><placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">LONDON</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">ONTARIO</placeName> | 22/5/16 | -- | <persName key="Dickie, J.A." from="D.O.B. Unknown" to="D.O.D. Unknown" role="Enlisted to the No. 10 Canadian Stationary Hospital Unit as the Unit's Dispenser, with the rank of Lieutenant" ref="https://canjsurg.ca/wp-content/uploads/2016/11/wwi-dec-at-1.pdf">Lieut. J. A. DICKIE</persName> taken on the Strength. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 23/5/16 | ** | 4 Recruits taken on the Strength. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 24/5/16 | ** | 5 Recruits taken on the strength. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 26/5/16 | ** | 1 Recruit taken on the Strength. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 29/5/16 | ** | 10 Recruits taken on the Strength. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 30/5/16 | ** | 1 Recruit taken on the Strength. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 31/5/16 | ** | <persName key="Dulmage, Helena Elizabeth" from="???" to="???" role="Originally the Superintendent of Nursing at Sarnia General Hospital, she was appointed as the matron of the Nursing Sisters for the Unit">Matron H.K. DULMAGE</persName>, Nursing Sisters <persName key="Collyer, F." from="D.O.B. Unknown" to="D.O.D. Unknown" role="Enlisted to the No. 10 Canadian Stationary Hospital Unit as a member of the Nursing Sisters" ref="http://data2.archives.ca/e/e061/e001518032.jpg">F. COLLYER</persName>, <persName key="MacRoberts, M.I." from="D.O.B. Unknown" to="D.O.D. Unknown" role="Enlisted to the No. 10 Canadian Stationary Hospital Unit as a member of the Nursing Sisters" ref="http://data2.archives.ca/e/e061/e001518032.jpg">M.I. MACROBERTS</persName>, <persName key="Wilson, Bertha Mary." from="1891" to="D.O.D. Unknown" role="Enlisted to the No. 10 Canadian Stationary Hospital Unit as a member of the Nursing Sisters, with the rank of Lieutenant. Mrs. Wilson was married to Major John Wilson, of the same Unit. Mrs. Wilson's enlistment initialized the removal of the bar against married women" ref=" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">B.M. WILSON</persName>, <persName key="McDougall, Agnes" from="1872" to="1919" role="Enlisted to the No. 10 Canadian Stationary Hospital Unit as a member of the Nursing Sisters" ref="http://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/Detail/2755927">A. MCDOUGAL</persName> Taken on the Strength. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 31/5/16 | ** | 5 Recruits taken on the Strength. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 31/5/16 | ** | STRENGTH AT DATE - OFFICERS - 6, NURSING SISTERS - 5, OTHER RANKS - 95. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>** | ** | ** | <interp key="Lt.Colonel Edwin Seaborn led all aspects of recruitment, preparation and training of the Unit's enlisted members. Training was conducted on Western University campus, during the summer months." n="citation" cert="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">Syllabus of Training</interp> during month included Squad and Company Drill, Stretcher Exercises, Route Marches, Lectures on First Aid, Bandaging, Sanitation and Hygiene. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>** | ** | ** | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Signature of Lt.Colonel Edwin Seaborn, Commanding Officer of the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">Edwin Seaborn</persName>, Lt.Colonel, Cmdg.No.10 Canadian Stationary Hospital. | **</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

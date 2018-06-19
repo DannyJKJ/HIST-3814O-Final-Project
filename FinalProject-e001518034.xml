@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>War diaries - 14th Canadian General Hospital = Journal de guerre - 14e Hôpital général canadien.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Library and Archives Canada at
+                    http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&amp;lang=eng&amp;rec_nbr=2005110&amp;rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Confidential War Diary of No. 10 Canadian Stationary Hospital,
+                            from May 10th/1916 to February 28th/1919,
+                            Volume No. 1.</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>The Government of Canada</publisher>
+                        <distributor>Open access through the Library and Archives Canada website,
+                            http://www.bac-lac.gc.ca/eng/Pages/home.aspx</distributor>
+                        <date when="Unknown">Unknown</date>
+                        <pubPlace>
+                            <settlement>Ottawa, ON</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by an employee of the Library and Archives Canada</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>6</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Instructions regarding War Diaries and Intelligence Summaries are contained in F.S. Regs., Part II. and the Staff Manual respectively. Title pages will be prepared in manuscript. | WAR DIARY or (Erase heading not required.) | Army Form C. 2118.</p>
+                <p>Place | Date | Hour | Summary of Events and Information | Remarks and references to Appendices</p>
+                <p><placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">LONDON</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">ONTARIO</placeName> | 27/6/16 | -- | <interp key="The Red Cross Society donated supplies to the Unit" n="citation" cert="high" ref="http://data2.archives.ca/e/e061/e001518033.jpg">479 Cases of Surgical Supplies and Hospital Clothing</interp> handed over to the <persName key="Brock, G.M." from="D.O.B. Unknown" to="D.O.D. Unknown" role="Enlisted as Quartermaster of the No. 10 Canadian Stationary Hospital Unit, with the rank of Captain" ref="https://canjsurg.ca/wp-content/uploads/2016/11/wwi-dec-at-1.pdf">Unit Quartermaster</persName> by the <placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">LONDON</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">ONTARIO</placeName> Branch of the <persName key="Canadian Red Cross" from="1896" to="Present" role="Canadian humanitarian charitable organization" ref="http://www.redcross.ca/about-us/red-cross-stories/2013/history-of-the-canadian-red-cross">Canadian Red Cross Society</persName>. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 29/6/16 | ** | 1 Other Rank struck off the Strength on discharge as medically unfit. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 30/6/16 | ** | STRENGTH AT DATE - OFFICERS-14. OTHER RANKS, 117. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>** | ** | ** | TRAINING CARRIED ON AS IN PRECEDING MONTH. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>** | ** | ** | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Signature of Lt.Colonel Edwin Seaborn, Commanding Officer of the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">Edwin Seaborn</persName> | **</p>
+                <p><placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">LONDON</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">ONTARIO</placeName> | 11/7/16 | ** | <interp key="Prevention of tetanus" n="citation" cert="medium" ref="https://www.ncbi.nlm.nih.gov/pubmed/22543225">Inoculation and Vaccination of All Ranks completed</interp>. | ES</p>
+                <p>- | 17/7/16 | ** | Letter from <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">Officer Commanding Unit</persName> to <persName key="Hodgins, William Egerton" from="1851" to="1930" role="Acting Adjutant-General (AAG)" ref="http://greatwaralbum.ca/Great-War-Album/About-the-Great-War/Life-on-the-Front-Lines/William-Hodgins-(1)">A.A.G.</persName>, <placeName key="Military District No.1., London, Ontario" ref="https://www.canadiansoldiers.com/organization/districts.htm">Military District No.1</placeName>, <placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">LONDON</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">ONTARIO</placeName>, stating <interp key="Edwin Seaborn surmised, via means of a letter to the Assistant Adjutant-General, the Unit's readiness to be dispatched overseas, post training" n="citation" cert="high" ref="http://data2.archives.ca/e/e061/e001518034.jpg">Unit complete</interp> in every respect and prepared to proceed Overseas immediately. | #10 S.H. 1-1-1, d/17/7/16. <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>** | 31/7/16 | ** | STRENGTH OF <persName key="Staff of the No. 10 Canadian Stationary Hospital" from="1916" to="1919" role="Medical staff" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">UNIT</persName> UNCHANGED THROUGHOUT MONTH. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>** | ** | ** | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Signature of Lt.Colonel Edwin Seaborn, Commanding Officer of the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">Edwin Seaborn</persName> | **</p>
+                <p><placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">LONDON</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">ONTARIO</placeName> | 8/8/16 | ** | Letter received from <persName key="Hodgins, William Egerton" from="1851" to="1930" role="Acting Adjutant-General" ref="http://greatwaralbum.ca/Great-War-Album/About-the-Great-War/Life-on-the-Front-Lines/William-Hodgins-(1)">A.A.G.</persName>, <placeName key="Military District No.1., London, Ontario" ref="https://www.canadiansoldiers.com/organization/districts.htm">No.1 Mil. Dist.</placeName>, <interp key="Assistant Adjutant-General ordered the remaining members of the No. 10 Canadian Stationary Hopital Unit to be ready for earlier than expected dipatch to Europe" n="citation" cert="medium" ref="http://data2.archives.ca/e/e061/e001518034.jpg">warning <persName key="Staff of the No. 10 Canadian Stationary Hospital" from="1916" to="1919" role="Medical staff" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">Unit</persName> to be in readiness to proceed Overseas at an early date</interp>. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName> 1 M.D.87-45-1,d/8/8/16.</p>
+                <p>- | 15/8/16 | ** | Field Day held by Officers and Men of <persName key="Staff of the No. 10 Canadian Stationary Hospital" from="1916" to="1919" role="Medical staff" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">Unit</persName> at <placeName key="Western University, London, Ontario" ref="http://www.uwo.ca/">Western University</placeName> Campus <placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">LONDON</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">ONTARIO</placeName>. | <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>- | 16/8/16 | ** | Instructions received from <persName key="Hodgins, William Egerton" from="1851" to="1930" role="Acting Adjutant-General (AAG)" ref="http://greatwaralbum.ca/Great-War-Album/About-the-Great-War/Life-on-the-Front-Lines/William-Hodgins-(1)">A.A.G.</persName>, <placeName key="Military District No.1., London, Ontario" ref="https://www.canadiansoldiers.com/organization/districts.htm">No.1 Mil. Dist.</placeName>, that <interp key="William Hadgins (AAG) ordered the No.10 Canadian Stationary Hospital Unit's dispatch to Europe" n="citation" cert="high" ref="http://data2.archives.ca/e/e061/e001518033.jpg">Unit leave</interp> <placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">LONDON</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">ONT.</placeName>., at 12.20 P.M., August 18th/1916, via <persName key="Grand Trunk Railway" from="1852" to="Present" role="The major railroad connecting Toronto to Montreal" ref="https://www.thecanadianencyclopedia.ca/en/article/grand-trunk-railway-of-canada/">G.T.R.</persName> | 1-D.C 249, d/16/8/16. <persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">ES</persName></p>
+                <p>** | 16/ | ** | ** | **</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

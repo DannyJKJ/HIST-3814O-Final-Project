@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>War diaries - 14th Canadian General Hospital = Journal de guerre - 14e Hôpital général canadien.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Library and Archives Canada at
+                    http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&amp;lang=eng&amp;rec_nbr=2005110&amp;rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Confidential War Diary of No. 10 Canadian Stationary Hospital,
+                            from May 10th/1916 to February 28th/1919,
+                            Volume No. 1.</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>The Government of Canada</publisher>
+                        <distributor>Open access through the Library and Archives Canada website,
+                            http://www.bac-lac.gc.ca/eng/Pages/home.aspx</distributor>
+                        <date when="Unknown">Unknown</date>
+                        <pubPlace>
+                            <settlement>Ottawa, ON</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by an employee of the Library and Archives Canada</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>2</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Author:- <persName key="Arnold, Victor" from="D.O.B. Unknown" to="D.O.D. Unknown" role="Sergeant in the Canadian Expeditionary Forces" ref="https://www.lib.uwo.ca/files/archives/archives_finding_aids/No_10_Canadian_Stationary_Hospital_AFC4_100106.pdf">Sgt. V.A.James</persName></p>
+                <p>APPENDIX 1.		WAR DIARY.		<placeName key="Western University Hospital, London, ON" ref="http://www.southwesthealthline.ca/displayService.aspx?id=13539">NO.10 CANADIAN STATIONARY HOSPITAL</placeName>.</p>
+                <p>EVENTS LEADING TO FORMATION OF <persName key="Staff of the No. 10 Canadian Stationary Hospital" from="1916" to="1919" role="Medical staff" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">UNIT</persName>.</p>
+                <p><placeName key="Western University, London, Ontario" ref="http://www.uwo.ca/">Western University</placeName> of <placeName key="London, Ontario" ref="https://www.thecanadianencyclopedia.ca/en/article/london/">London</placeName>, <placeName key="Ontario, Canada" ref="https://www.thecanadianencyclopedia.ca/en/article/ontario/">Ontario</placeName>, between September,1914 and March,1916, made <interp key="Western University wished to aid in WWI by training a specialized medical team to treat the wounded overseas" n="citation" cert="high" ref="https://www.lib.uwo.ca/archives/virtualexhibits/historyofmedicine/Faculty/seaborn.html">several offers</interp> to the Canadian Government to organize a complete Hospital <persName key="Staff of the No. 10 Canadian Stationary Hospital" from="1916" to="1919" role="Medical staff" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">Unit</persName> for Overseas Service. To these offers the Canadian Governmant replied that the War Office deemed they had at the time <interp key="The offers were initailly declined on the basis of the existence of sufficient medical teams overseas" n="citation" cert="high" ref="https://www.lib.uwo.ca/archives/virtualexhibits/historyofmedicine/Faculty/seaborn.html">sufficient Units of that nature</interp>.</p>
+                <p>It was considered by the Board of Governors that <placeName key="Western University, London, Ontario" ref="http://www.uwo.ca/">Western University</placeName> was in a peculiarly advantageous position to <interp key="Western University was considered a prime location to train Medical professionals to be sent overseas" n="document" cert="high" ref="http://data2.archives.ca/e/e061/e001518030.jpg">supply a Hospital unit</interp>. A large number of its students in Medicine and other branches were <interp key="Numerous Western University Medical Students in training volunteered their services, though still un-professional, in the proposed Medical Unit" n="citation" cert="high" ref="http://news.westernu.ca/2016/10/seaborn-western-answered-dutys-call/">anxious to enlist</interp>; many of its graduates, practising physicians and surgeons, had expressed their willingness to <interp key="Various physicians and surgeons who had already graduated from Western University, volunteered their fully trained professional knowledge to the proposed Unit" n="citation" cert="high" ref="http://news.westernu.ca/2016/10/seaborn-western-answered-dutys-call/">proceed overseas as Medical officers</interp>, and a number of graduate Nurses of London Hospitals, who were associated with the University, desired to <interp key="Various graduated nurses, who were working in London based hopsitals at the start of WWI, volunteered their professional knowledge to the proposed Unit" n="citation" cert="medium" ref="http://news.westernu.ca/2016/10/seaborn-western-answered-dutys-call/">serve as Nursing Sisters</interp>. The buildings and grounds of the University were <interp key="In order to train the individuals being sent overseas, the Western University campus was offered as a prime location" n="document" cert="high" ref="http://data2.archives.ca/e/e061/e001518030.jpg">available as a training centre</interp> during the Summer months. It was anticipatad that the proposed <persName key="Staff of the No. 10 Canadian Stationary Hospital" from="1916" to="1919" role="Medical staff" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">Unit</persName> could be very rapidly recruited and trained ready for overseas.</p>
+                <p>Accordingly further urgent representations were made to <placeName key="Ottawa, Otario" ref="https://www.thecanadianencyclopedia.ca/en/article/ottawa-ont/">Ottawa</placeName> in March,1916, with the result that <interp key="The offer was ultimately accepted and the proposed training plan was begun (March, 1916)" n="citation" cert="high" ref="https://www.lib.uwo.ca/archives/virtualexhibits/historyofmedicine/Faculty/seaborn.html">authority was received to mobilize the Western University Hospital</interp>, officially known <placeName key="Western University Hospital, London, ON" ref="http://www.southwesthealthline.ca/displayService.aspx?id=13539">No.10 Stationary Hospita1,C.E.F.</placeName></p>
+                <p><persName key="Seaborn, Edwin" from="1872" to="1951" role="Commanding Officer, the No. 10 Canadian Stationary Hospital" ref="http://medicalhistory.uwo.ca/exhibits/seabornARCC2012/seabornexhibit2012.htm">Edwin Seaborn,M.D.</persName>, a graduate of the University and long associatad with its <placeName key="School of Medicine and Surgery, Western University Hospital, London, ON. Now called the Schulich school of Medicine and Dentistry" ref="http://www.schulich.uwo.ca/">School of Medicine and Surgery</placeName>, was nominated by the Board of Governors as Officer Commanding the <persName key="Staff of the No. 10 Canadian Stationary Hospital" from="1916" to="1919" role="Medical staff" ref="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125918/">Unit</persName>, and in due course the appointment was approved by <placeName key="Canadian Militia Headquarters, Ottawa, Ontario" ref="https://www.canadiansoldiers.com/organization/headquarters/militiahq.htm">Militia Headquarters</placeName>, <placeName key="Ottawa, Otario" ref="https://www.thecanadianencyclopedia.ca/en/article/ottawa-ont/">Ottawa</placeName>.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>

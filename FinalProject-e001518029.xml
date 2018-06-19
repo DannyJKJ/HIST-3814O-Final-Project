@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>War diaries - 14th Canadian General Hospital = Journal de guerre - 14e Hôpital général canadien.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Library and Archives Canada at
+                    http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&amp;lang=eng&amp;rec_nbr=2005110&amp;rec_nbr_list=3366167,3203123,2005097,2005100,2005101,2005099,2005096,2005110,2005108,2005106</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Confidential War Diary of No. 10 Canadian Stationary Hospital,
+                            From May 10th/1916 to February 28th/1919,
+                            Volume No. 1.</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>The Government of Canada</publisher>
+                        <distributor>Open access through the Library and Archives Canada website,
+                            http://www.bac-lac.gc.ca/eng/Pages/home.aspx</distributor>
+                        <date when="Unknown">Unknown</date>
+                        <pubPlace>
+                            <settlement>Ottawa, ON</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by an employee of the Library and Archives Canada</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>1</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>ORIGINAL</p>
+                <p>CONFIDENTIAL WAR DIARY</p>
+                <p>OF</p>
+                <p><placeName key="Western University Hospital, London, ON" ref="https://www.google.ca/search?q=western+university+hospital&amp;oq=Western+University+Hospital&amp;aqs=chrome.0.0l6.1413j0j8&amp;sourceid=chrome&amp;ie=UTF-8">NO. 10 CANADIAN STATIONARY HOSPITAL</placeName></p>
+                <p>FROM MAY 10TH/1916 to July 31st/1917</p>
+                <p>VOLUME No. 1.</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
